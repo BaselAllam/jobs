@@ -1,6 +1,6 @@
 # jobs
 
-A new Flutter project.
+a Project for Github jobs using Github jobs API and to show difference between ScopedModel & Provider / Bassel Allam
 
 ## Getting Started
 
